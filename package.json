@@ -1,0 +1,16 @@
+{
+  "name": "parrot",
+  "version": "1.0.0",
+  "description": "facebook-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "request": "^2.88.2"
+  }
+}
